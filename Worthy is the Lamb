@@ -17,47 +17,45 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[Intro]
-.C#m E
-.C#m E
-
+.Em  G
+.Em  G
+ 
 [V]
-.E         E/G#      A        E/G#
+.G         G/B       C         G/B
  Thank you for the cross, Lord
-.                    A    B    E
+.                    C    D    G
  Thank you for the price You paid
-.                C#m
+.                Em              
  Bearing all my sin and shame
-.    B        A
+.    D        C
  In love You came
-.    F#m   E/G#     B
+.    Am    G/B      D
  And gave amazing grace
-
+ 
  Thank you for this love, Lord
  Thank you for the nail pierced hands
  Washed me in Your cleansing flow
  Now all I know
  Your forgiveness and embrace
----
+--- 
 [C]
-.E              B/D#
+.G              D/F#
  Worthy is the Lamb
-.F#m    E/G#      A
+.Am     G/B       C
  Seated on the throne
-.B         B/A      E/G#   A
+.D         D/C      G/B    C
  Crown You now with many crowns
-.     F#m    A/E   B
+.     Am     C/G   D
  You reign victorious
-
-.E               B/D#
+ 
+.G               D/F#
  High and lifted up
-.F#m   E/G#    A
+.Am    G/B     C
  Jesus Son of God
-.     B         B/A    E/G#   A B
+.     D         D/C    G/B    C   D
  The Darling of Heaven crucified
-.               F#m E/G# A
+.               Am  G/B C
  Worthy is the Lamb
-.               F#m E/G# A/B
- Worthy is the Lamb</lyrics>
-  <linked_songs/>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
+.               Am  G/B C/D
+ Worthy is the Lamb
+ </lyrics></song>

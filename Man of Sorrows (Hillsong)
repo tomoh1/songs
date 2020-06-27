@@ -17,13 +17,13 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.C               F       C
+.E               A       E
  Man of sorrows, Lamb of God
-.F      C       G
+.A      E       B
  By His own betrayed
-.    Am             F        Am
+.    C#m            A        C#m
  The sin of man and wrath of God
-.    F       G    C
+.    A       B    E
  Has been on Jesus laid
 
 [V2]
@@ -33,13 +33,13 @@
  He took a crown of thorns
 
 [C]
-.         Am     F            C G
+.         C#m    A            E B
  Oh, that rugged cross, my salvation
-.           Am          F       G
- Where your love poured out over me
-.       Am         C        G Am
+.           C#m         A       B
+ Where your love poured out over me 
+.       C#m        E        B C#m
  Now my soul cries out hallelujah
-.           F     G   C
+.           A     B   E
  Praise and honor unto Thee
 
 [V3]
@@ -49,28 +49,26 @@
  Who nailed Him to that tree
 ---
 [B]
-.       Am      F
+.       C#m     A
  Now my debt is paid
-.      C       G
+.      E       B
  It is paid in full
-.       Am       F
+.       C#m      A
  By the precious blood
-.        C     G
+.        E     B
  That my Jesus spilled ||
-.        Am       F
+.        C#m      A
  Now the curse of sin
-.       C       G
+.       E       B
  Has no hold on me
-.         Am       F
+.         C#m      A
  Whom the Son sets free
-.      C    G
+.      E    B
  Oh is free indeed
 
 [V4]
  See the stone is rolled away
  Behold the empty tomb
  Hallelujah, God be praised
- He's risen from the grave</lyrics>
-  <linked_songs/>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
+ He's risen from the grave
+</lyrics></song>

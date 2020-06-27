@@ -16,38 +16,38 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-.D                            D/G
+.E                            E/A
  Lord You are the maker of my heart
-.D                          D/G
+.E                          E/A
  Framer and reshaper of my soul
-.Em         Asus
+.F#m        Bsus
  Master and creator
-.G          D/F#
+.A          E/G#
  Healer and sustainer
-.Em                          D/G
+.F#m                         E/A
  I will put my trust in You alone||
 
-.D                          D/G
+.E                          E/A
  Teach me to be faithful to confess
-.D                             D/G
+.E                             E/A
  In this way my spirit will be blessed
-.Em                Asus
+.F#m               Bsus
  Though my sins are daily
-.G                 D/F#
+.A                 E/G#
  You have loved me greatly
-.Em                                D/G
+.F#m                               E/A
  Removing them as far as east from west
 
 [c]
-.          D
+.          E
  Let me be open
-.          D/G
+.          E/A
  Let me be humble
-.                Em                        G
+.                F#m                       A
  Let me find the joy of my salvation in Your cross ||
-.          D                 D/G
+.          E                 E/A
  Let me be broken Whenever I stumble
-.        Em                A            D
+.        F#m               B            E
  Let me remember the great mercy of my God
 
 [v2]
@@ -58,15 +58,11 @@
  Carry these to those who haven’t heard
 ---
 [b]
-.            G                      D
+.            A                      E
  All I have needed is laid at your table
-.           G                        A
+.           A                        B
  All my achievements, I lay at your feet
-.D/F#           G                      D
+.E/G#           A                      E
  Alive in your spirit, I’m willing and able
-.                Em      A Asus A
- You make my joy complete</lyrics>
-  <hymn_number></hymn_number>
-  <linked_songs/>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
+.                F#m     B Bsus B
+ You make my joy complete</lyrics></song>

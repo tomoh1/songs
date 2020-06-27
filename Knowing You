@@ -16,25 +16,25 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-. A     F#m  D    A              D   E  A
+. C     Am   F    C              F   G  C
  All I once held dear, built my life upon
-.          F#m   D    A     F#m      Esus E
+.          Am    F    C     Am       Gsus  G
  All this world reveres and wars to own
-.      D      E      A           F#m   E    A
+.      F      G      C           Am    G    C
  All I once thought gain, I have counted loss
-.          F#m    D   A      F#m      Esus E
+.          Am     F   C      Am       Gsus  G
  Spent and worthless now compared to this
 
 [C]
-.         D    A     D        A
+.         F    C     F        C
  Knowing You, Jesus, knowing You
-.      F#m     E       D
+.      Am      G       F
  There is no greater thing
-.           A/C#           D/F#
+.           C/E            F/A
  You're my all, You're the best
-.          A/E               D
+.          C/G               F
  You're my joy, my Righteousness
-.       A/C#     F#m Esus E
+.       C/E      Am   Gsus  G
  And I love You, Lord
 
 [V2]
@@ -47,8 +47,4 @@
  Oh to know the power of Your risen life
  And to know You in Your sufferings
  To become like You, in Your death, my Lord
- So with You to live and never die</lyrics>
-  <hymn_number></hymn_number>
-  <linked_songs/>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
+ So with You to live and never die</lyrics></song>
