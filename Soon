@@ -15,54 +15,77 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1] 
-.D 
- Soon and very soon 
-.      Bm 
- My King is coming 
-.G 
- Robed in righteousness 
-.        Em7 
- And crowned with love 
-.D 
- When I see Him 
-.          Bm 
- I shall be made like Him 
-.G              A     D  Dsus4  D 
- Soon and very soon 
-
-[V2] 
- Soon and very soon I'll be going 
- To the place He has prepared for me 
- There my sin erased 
- My shame forgotten 
- Soon and very soon 
-
-[C] 
-.        A/C#          G        D 
- I will be with the One I love 
-.         A            Em      G      D 
- With unveiled face I'll see Him 
-.                A/C#          Bm   A    G 
- There my soul will be satisfied 
-.Em           A     D / / / (G/D / / / 1st x) 
- Soon and very soon 
-
-[V3] 
- Soon and very soon 
- See the procession 
- The angels and the elders 
- 'Round the throne 
- At His feet I'll lay my crowns 
- My worship 
- Soon and very soon 
-
+  <lyrics>[V1]
+.D
+ Soon and very soon
+.      Bm
+ My King is coming
+.G
+ Robed in righteousness
+.        Em7
+ And crowned with love
+.D
+ When I see Him
+.          Bm
+ I shall be made like Him
+.G              A     D  Dsus4  D
+ Soon and very soon
+ 
+[V2]
+ Soon and very soon I'll be going
+ To the place He has prepared for me
+ There my sin erased
+ My shame forgotten
+ Soon and very soon
+ 
+[C]
+.      A/C#          G     D
+ I will be with the One I love
+.     A         Em        G   D
+ With unveiled face I'll see Him
+.         A/C#        Bm   A    G
+ There my soul will be satisfied
+.Em        A     D
+ Soon and very soon
+ 
+[V3]
+ Soon and very soon
+ See the procession
+ The angels and the elders
+ 'Round the throne
+ At His feet I'll lay my crowns
+ My worship
+ Soon and very soon
+---
+[Interlude]
+.G D/F# Em Bm-F#m
+.G D/F# Asus A-Bm
+ 
 [B]
-.
+.Em                  A
  Though I have not seen Him
-.
+.D/F#                Bm
  My heart knows Him well
-.
+.Em                D/F#
  Jesus Christ the Lamb
-.
- The Lord of Heaven</lyrics></song>
+.              A
+ The Lord of Heaven
+ 
+[C2] 
+.      A/C#          G     D
+ I will be with the One I love
+.     A         Em        G   D
+ With unveiled face I'll see Him
+.         A/C#        Bm   A    E7/G#
+ There my soul will be satisfied
+.Em        A     Bm
+ Soon and very soon
+.Em        A     Bm
+ Soon and very soon
+.Em        A     D
+ Soon and very soon
+</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

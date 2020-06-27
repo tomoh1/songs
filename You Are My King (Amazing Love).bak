@@ -6,29 +6,29 @@
   <ccli>2456623</ccli>
   <theme>Christ: Death/Atonement; Worship: Declaration; </theme>
   <lyrics>[V]
-.D/F#   G2       Asus              A
+.C/E    F2       Gsus              G
  I'm forgiven, because You were forsaken,
-.D/F#  G2      Asus        A
+.C/E   F2      Gsus        G
  I'm accepted, You were condemned;
-.D/F# G2                  Asus          A
+.C/E  F2                  Gsus          G
  I'm alive and well, Your Spirit is within me,
-.  G2        A              D
+.  F2        G              C
  Because You died and rose again.
 
 [C]
-.D             G
+.C             F
  Amazing love, how can it be,
-.D                              Asus A
+.C                              Gsus G
  That You my King would die for me?
-.D             G
+.C             F
  Amazing love, I know it's true,
-.D                        Asus A
+.C                        Gsus G
  And it's my joy to honor You;
-.         G A         D
+.         F G         C
  In all I do to honor You.
 
 [T]
-.D  Dsus       D
+.C  Csus       C
  You are my King,
  You are my King,
  Jesus, You are my King.</lyrics>
@@ -42,4 +42,7 @@
   <user3></user3>
   <tempo>Slow</tempo>
   <time_sig>4/4</time_sig>
-  <hymn_number></hymn_number></song>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

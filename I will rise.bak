@@ -16,37 +16,37 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.          F#m                  D
+.          C#m                  A
  There's a peace I've come to know
-.           A                   E
+.           E                   B
  Though my heart and flesh may fail
-.           F#m            D
+.           C#m            A
  There's an anchor for my soul
-.       A           E
+.       E           B
  I can say, "It is well"
 
 [P]
-.A              E/G#
+.E              B/D#
  Jesus has overcome
-.          F#m          D
+.          C#m          A
  And the grave is overwhelmed
-.A/C#           E/G#
+.E/G#           B/D#
  The victory is won
-.       F#m            D
+.       C#m            A
  He is risen from the dead
 
 [C]
-.            A            E
+.            E            B
  And I will rise when He calls my name
-.F#m              D
+.C#m              A
  No more sorrow, no more pain
-.        A               E
+.        E               B
  I will rise on eagles' wings
-.   F#m             D
+.   C#m             A
  Before my God fall on my knees
-.    A/C#    D
+.    E/G# A
  And rise
-.       A/E   E
+.       E/B B
  I will rise
 ---
 [V2]
@@ -56,11 +56,15 @@
  And my faith shall be my eyes
 
 [B]
-.                D        A           E
+.                A        E           B
  And I hear the voice of many angels sing,
-. D     A       E
+. A     E       B
  Worthy is the Lamb
-.                D       A    E        (F#m)
+.                A       E    B        (F#m)
  And I hear the cry of every longing heart,
-. D     A       E
- Worthy is the Lamb</lyrics></song>
+. A     E       B
+ Worthy is the Lamb</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
