@@ -4,7 +4,7 @@
   <author>Irish Folk Hymn; Elanor H. Hull</author>
   <copyright>Public Domain</copyright>
   <presentation></presentation>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <tempo></tempo>
   <ccli>248328</ccli>
   <theme>Church: Commitment/Obedience; </theme>
@@ -35,10 +35,14 @@
 
 [V4]
  High King of heaven my victory won,
- May I reach heaven's joys, O bright heav'n's Sun;
+ May I reach heaven's joys, O bright heaven's Sun;
  Heart of my own heart, whatever befall,
  Still be my Vision, O Ruler of all.</lyrics>
   <key></key>
   <aka></aka>
   <key_line></key_line>
-  <time_sig></time_sig></song>
+  <time_sig></time_sig>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

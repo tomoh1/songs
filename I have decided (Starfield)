@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15,37 +15,50 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>.Am F Am F 
-.Am F Dsus
+  <lyrics>.C Am
+.F Am
 
 [V1]
-.        Am    F           Am   F
+.          C               Am
  I have decided to follow Jesus
-.        Am    F           Dsus
+.          F               C
  I have decided to follow Jesus
-.        Am    F           Am   F
+.          Am              F
  I have decided to follow Jesus
-.            Am  F            Dsus
+.         C/E    G            C
  No turning back, no turning back
 
-[c]
+[C]
+.        F      G
  I will follow You
+.        Am
  I will follow You
+.        F      Dm7     Am
  I will follow You, my God
 
+.C Am
+
 [V2]
-.                 F   G               C/E     F
+.                C                     Am
  Though none go with me, still I will follow
-.                 F   G               Em      F
+.                F                     C
  Though none go with me, still I will follow
-.                 F   G               C/E     F
+.                Am                    F
  Though none go with me, still I will follow
-.            Am G/B           F
+.          C/E   G            C
  No turning back, no turning back
 
 [V3]
+.             C                    Am
  The world behind me, the cross before me
+.             F                    C
  The world behind me, the cross before me
+.             Am                   F
  The world behind me, the cross before me
+.          C/E   G            C
  No turning back, no turning back
-</lyrics></song>
+</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

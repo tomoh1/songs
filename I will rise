@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -63,4 +63,8 @@
 .                D       A    E        (F#m)
  And I hear the cry of every longing heart,
 . D     A       E
- Worthy is the Lamb</lyrics></song>
+ Worthy is the Lamb</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -31,7 +31,7 @@
 .      Am      G       F
  There is no greater thing
 .           C/E            F/A
- You're my all, You're the best
+ You're my all, You're my rest
 .          C/G               F
  You're my joy, my Righteousness
 .       C/E      Am   Gsus  G
@@ -47,4 +47,8 @@
  Oh to know the power of Your risen life
  And to know You in Your sufferings
  To become like You, in Your death, my Lord
- So with You to live and never die</lyrics></song>
+ So with You to live and never die</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

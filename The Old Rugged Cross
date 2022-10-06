@@ -4,7 +4,7 @@
   <author>George Bennard</author>
   <copyright>Public Domain</copyright>
   <ccli>19722</ccli>
-  <theme>Christ: Death/Atonement</theme>
+  <theme>Christ: Death/Atonement; </theme>
   <lyrics>[V1]
 .     A                      D                     E7                      A
  On a hill far away stood an old rugged cross, The emblem of suff'ring and shame;
@@ -37,4 +37,18 @@
 .       A                       D                 E7                        A
  To the old rugged cross I will ever be true, Its shame and reproach gladly bear;
 .           A                      D                        E7                 A
- Then He'll call me some day to my home far away, Where his glory forever I'll share.</lyrics></song>
+ Then He'll call me some day to my home far away, Where his glory forever I'll share.</lyrics>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

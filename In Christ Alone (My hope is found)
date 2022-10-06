@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -18,54 +18,82 @@
   <lyrics>[V1]
 .    F       C       F       G
  In Christ alone my hope is found
-.          F          G           C
+.C/E       F          G           C
  He is my light, my strength, my song
 .      F      C          F      G
  This cornerstone, this solid ground
-.                  F         G           C
+.C/E               F         G           C
  Firm through the fiercest drought and storm
 
-.      C/E        F          Am        G
+.      C/E        F                    G
  What heights of love, what depths of peace
-.                 F              Am      G
+.                 Am                      G/B
  When fears are stilled, when strivings cease
 .    F     C       F     G
  My comforter, my all in all
-.             F         G       C
+.C/E          F         G       C
  Here in the love of Christ I stand
 
 
 [V2]
+.    F       C         F        G
  In Christ alone, Who took on flesh
+.C/E          F      G        C
  Fullness of God in helpless babe
+.      F       C        F       G
  This gift of love and righteousness
+.C/E            F        G       C
  Scorned by the ones He came to save
 
+.     C/E       F             G
  Till on that cross as Jesus died
+.              Am          G/B
  The wrath of God was satisfied
+.    F      C      F       G
  For every sin on Him was laid
+.C/E           F         G      C
  Here in the death of Christ I live
 ---
 [V3]
+.      F        C         F    G
  There in the ground His body lay
+.C/E           F        G         C
  Light of the world by darkness slain
+.      F        C         F       G
  Then bursting forth in glorious day
+.C/E           F       G     C
  Up from the grave He rose again
 
+.    C/E     F             G
  And as He stands in victory
+.                 Am               G/B
  Sin's curse has lost its grip on me
+.    F     C       F     G
  For I am His and He is mine
+.C/E               F        G        C      Asus
  Bought with the precious blood of Christ
 
 
 [V4]
+.    G        D        G       A
  No guilt in life, no fear in death
+.D/F#         G          A       D
  This is the power of Christ in me
+.      G             D     G      A
  From life's first cry to final breath
+.D/F#      G        A    D
  Jesus commands my destiny
 
+.   D/F#      G                  A
  No power of hell, no scheme of man
+.           Bm               A/C#
  Can ever pluck me from His hand
+.      G    D        G        A
  Till He returns or calls me home
- Here in the power of Christ I'll stand</lyrics>
-  <hymn_number></hymn_number></song>
+.D/F#         G         A           D
+ Here in the power of Christ I'll stand
+</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

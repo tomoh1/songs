@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -39,4 +39,8 @@
  Joy, 'cause I dance with the angels
  Take me higher, I'm not coming down.
  And your words serenade me like the sweetest of songs
- Here I find peace again</lyrics></song>
+ Here I find peace again</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

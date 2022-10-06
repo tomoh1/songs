@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15,27 +15,27 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>.D G D G
+  <lyrics>.E A E A
 [V1]
-.D                 G
+.E                 A
  A refuge for the poor
-.                     D
+.                     E
  A shelter from the storm
-.             G
+.             A
  This is our God
-.D                        G
+.E                        A
  He will wipe away your tears
-.                         D
+.                         E
  And return your wasted years
-.             G
+.             A
  This is our God
 
 [P1]
-.          Em
+.          F#m
  So call upon his name
-.       G
+.       A
  He is mighty to save
-.             D
+.             E
  This is our God
 
 [V2]
@@ -47,13 +47,13 @@
  This is our God
 ---
 [C1]
-.G                        Bm
+.A                        C#m
  This is the one we have waited for
-.G                        Bm
+.A                        C#m
  This is the one we have waited for
-.G                        Bm
+.A                        C#m
  This is the one we have waited for
-.G D/F# Em       D/F# G             D
+.A E/G# F#m      E/G# A             E
  Jesus Lord and Savior this is our God
 
 [V3]
@@ -65,13 +65,13 @@
  This is our God
 
 [C2]
-.G                        Bm
+.A                        C#m
  You are the one we have waited for
-.G                        Bm
+.A                        C#m
  You are the one we have waited for
-.G                        Bm
+.A                        C#m
  You are the one we have waited for
-.G D/F# Em       D/F# G             D
+.A E/G# F#m      E/G# A             E
  Jesus Lord and Savior this is our God</lyrics>
   <hymn_number></hymn_number>
   <linked_songs/>

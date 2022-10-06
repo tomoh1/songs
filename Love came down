@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -54,4 +54,7 @@
 
 [B]
 .     G/B         Cmaj7          Em   D       C
- I am Yours, I am Yours, all my days, I am forever Yours</lyrics></song>
+ I am Yours, I am Yours, all my days, I am forever Yours</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

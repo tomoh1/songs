@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -66,9 +66,18 @@
  
  
 [V2]
+.          E
  When the world caves in
+.                     B
  Still my hope will cling
+.           C#m
  To Your promise
+.          E
  When my courage ends
+.                     B
  Let my heart find strength
- In Your presence</lyrics></song>
+.          C#m
+ In Your presence</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

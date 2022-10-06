@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,34 +16,34 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[Intro]
-.A F#m D E
+.G Em C D
 
 [V1]
-.     A
+.     G
  The world is Yours and everything in it
-.     F#m
+.     Em
  It's all at Your command
-.             D           E
+.             C           D
  There is no end to Your domain...
 
 [V2]
-.      A
+.      G
  The planets shake, the galaxies tremble
-.      F#m
+.      Em
  They turn within Your hand
-.            D            E
+.            C            D
  There is no end to Your domain
-.     D                        E
+.     C                        D
  No height or depth You don't sustain
 
 [C]
-.A
- Great in all the earth is Your glory oh God 
-.    F#m 
+.G
+ Great in all the earth is Your glory oh God
+.    Em
  The universe declares how amazing You are
-.      D            E
+.      C            D
  Over history and eternity
-.     D                   E
+.     C                   D
  You alone are Lord and King
 
 [V3]
@@ -53,8 +53,12 @@
  No height or depth You don't sustain
 
 [B]
-.Bm       A         E
+.Am       G         D
  There is none like You (repeat)
 
 [Outro]
-.F#m E/G# A</lyrics></song>
+.Em D/F# G</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

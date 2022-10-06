@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -37,7 +37,7 @@
  Be near O God of us
 .     D
  Your nearness
-.      A/C#   E      (Bm      D)
+.      A/C#   E      ( F#m      D )
  Is to us our good...(our good )
 
 
@@ -55,4 +55,8 @@
  The Depths are height to You
 .                    E
  Far is near, But Lord I need to hear from You
-</lyrics></song>
+</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -51,4 +51,8 @@
  I’m so glad I learned to trust Thee,
  Precious Jesus, Savior, Friend;
  And I know that Thou art with me,
- Wilt be with me to the end. </lyrics></song>
+ Wilt be with me to the end. </lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

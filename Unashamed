@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -26,9 +26,13 @@
  Has placed in me my worth
  
 [V2]
+.     A         B       C#m
  Oh Christ, my King of sympathy
+.       A        B       C#m
  Whose wounds secure my peace
+.       A       B       C#m
  Your grace extends to call me friend
+.      A     B       E
  Your mercy sets me free
  
 [C]
@@ -42,9 +46,13 @@
  Because of Your mercy I stand here unashamed
  
 [V3
+.   A        B         C#m
  I can't explain this kind of love
+.     A      B      C#m
  I'm humbled and amazed
+.      A          B         C#m
  That You'd come down from heaven's height
+.      A       B       E
  And greet me face to face
  
 [T]
@@ -52,5 +60,7 @@
  Here I am, at your feet
 .        E            A
  In my brokeness complete</lyrics>
-  <hymn_number/>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

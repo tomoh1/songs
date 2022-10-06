@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -72,4 +72,8 @@
 .E                         C#m
  Everything I am for Your Kingdom's cause
 .A                       B          Amaj7
- As I walk from earth into eternity</lyrics></song>
+ As I walk from earth into eternity</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

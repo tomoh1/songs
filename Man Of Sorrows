@@ -2,8 +2,8 @@
 <song>
   <title>Man Of Sorrows</title>
   <author>Philip P. Bliss</author>
-  <theme>Christ: Death/Atonement</theme>
-  <capo print="false">1</capo>
+  <theme>Christ: Death/Atonement; </theme>
+  <capo print="false" sharp="true">1</capo>
   <lyrics>.A                  F#m      C#    D        A          E/B  B   E
 1Man of Sorrows,    what a   name! For the  Son of     God, Who came
 2Bearing shame and  scoffing rude, In my    place con__demned He stood;
@@ -16,4 +16,19 @@
 2Sealed my pardon with His   blood. Hallelujah! What a Savior!
 3Full atonement!  Can it     be? Hallelu___jah! What a Savior!
 4Now in heaven ex_alted      high. Hallelu_jah! What a Savior!
-5Then anew His    song we’ll sing: Hallelu_jah! What a Savior!</lyrics></song>
+5Then anew His    song we’ll sing: Hallelu_jah! What a Savior!</lyrics>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

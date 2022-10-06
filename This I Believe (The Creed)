@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -21,9 +21,9 @@
  Our Father everlasting, the all creating one
 .    Em D    G/B
  God almighty
-.C                 Em     D          G/B        C
+.C                 Em     D               G/B    C
  Through Your Holy Spirit conceiving Christ the Son
-.          D
+.           D
  Jesus our savior
  
 [C1]

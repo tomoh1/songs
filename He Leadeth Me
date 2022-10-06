@@ -4,7 +4,7 @@
   <author>Joseph Gilmore &amp; William B. Bradbury</author>
   <copyright>Public Domain</copyright>
   <presentation>V1 C V2 C V3 C</presentation>
-  <theme>God: Guidance/Care</theme>
+  <theme>God: Guidance/Care; </theme>
   <lyrics>[V]
 .      D             D/F# G                   D                           A
 1He    leadeth me!   O    blessed thought! O  words with heavenly comfort fraught!
@@ -20,4 +20,18 @@
 .   D       A      D   G   D              Bm      D       A
  He leadeth me, He leadeth me; By His own hand He leadeth me:
 .    D        A        D G     D       Bm     D       A       D
- His faithful follower I would be, For by His hand He leadeth me.</lyrics></song>
+ His faithful follower I would be, For by His hand He leadeth me.</lyrics>
+  <hymn_number></hymn_number>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

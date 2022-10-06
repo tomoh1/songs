@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -46,4 +46,8 @@
 .                        Em  D  G      D             Bm A
  Why should I gain from his reward? I cannot give an answer
 .    D                 Em  D   G          D                 A   D
- But this I know with all my heart: his wounds have paid my ransom</lyrics></song>
+ But this I know with all my heart: his wounds have paid my ransom</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

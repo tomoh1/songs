@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -40,4 +40,8 @@
  Well might the sun in darkness hide and shut his glories in
  When Christ the mighty Maker died for man the creature’s sin
  Thus might I hide my blushing face while His dear cross appears
- Dissolve my heart in thankfulness and melt mine eyes to tears</lyrics></song>
+ Dissolve my heart in thankfulness and melt mine eyes to tears</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -4,7 +4,7 @@
   <author>Thomas O. Chisholm</author>
   <copyright>1923 Renewed 1951 Hope Publishing Company</copyright>
   <presentation></presentation>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <tempo></tempo>
   <ccli>18723</ccli>
   <theme>God: Guidance/Care; </theme>
@@ -46,4 +46,7 @@
   <key></key>
   <aka></aka>
   <key_line></key_line>
-  <time_sig></time_sig></song>
+  <time_sig></time_sig>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

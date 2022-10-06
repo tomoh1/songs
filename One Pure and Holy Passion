@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15,28 +15,32 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>.D A/C# Bm
+  <lyrics>.A E/G# F#m
 
 [V]
-.  D          A/C#          Bm    Bm/A
+.  A          E/G#          F#m   F#m/E
  Give me one pure and holy passion
-. G             D/F#       Em     Asus A
+. D             A/C#       Bm     Esus E
  Give me one magnificent obsession
-. D           A/C#      Bm            Bm/A
+. A           E/G#      F#m           F#m/E
  Give me one glorious ambition for my life
-.     G      D/F#    Em   A     D G
+.     D      A/C#    Bm   E     A D
  To know and follow hard after You
 
 [C]
-.     D             G/B          D D/C#
+.     A             D/F#         A A/G#
  To know and follow hard after You
-.    Bm              G           Asus A
+.    F#m             D           Esus E
  To grow as Your disciple in the truth
-.               Bm              A
+.               F#m             E
  This world is empty, pale and poor
-.              Bm              A
+.              F#m             E
  Compared to knowing You, my Lord
-.        G               A        Bm
+.        D               E        F#m
  Lead me on, and I will run after You
-.        G               A        D
- Lead me on, and I will run after You</lyrics></song>
+.        D               E        A
+ Lead me on, and I will run after You</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

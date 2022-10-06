@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>C</key>
   <aka></aka>
   <key_line></key_line>
@@ -16,11 +16,11 @@
   <tempo>Slow</tempo>
   <time_sig>4/4</time_sig>
   <lyrics>[V1]
-.    C
+.    A
  The splendor of the King
-.Am
+.F#m
  Clothed in majesty
-.                     F
+.                     D
  Let all the earth rejoice
 .
  All the earth rejoice ||
@@ -31,13 +31,13 @@
  Trembles at His voice
 
 [C]
-.     C
+.     A
  How great is our God
-.                  Am
+.                  F#m
  Sing with me how great is our God
-.                   F         G
+.                   D         E
  All will see how great, how great
-.       C
+.       A
  Is our God
 
 [V2]
@@ -56,4 +56,7 @@
  Worthy of all praise
  My heart will sing
  How great is our God</lyrics>
-  <hymn_number></hymn_number></song>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

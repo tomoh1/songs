@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>G</key>
   <aka></aka>
   <key_line>Make a joyful noise to the Lord</key_line>
@@ -68,4 +68,8 @@
  Make a joyful noise to the LORD all the earth
 .
  Make a joyful noise to the LORD all the earth
-</lyrics></song>
+</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

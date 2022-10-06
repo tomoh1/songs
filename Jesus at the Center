@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,28 +17,28 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[Intro]
-.D Em D/F# G
+.C Dm C/E F
 
 [V1]
-.D             Em          D/F#
+.C             Dm          C/E
  Jesus at the center of it all
-.G             D/F#        A
+.F             C/E         G
  Jesus at the center of it all
-.      G               D           A
+.      F               C           G
  From beginning to the end It will always be
-.   Bm      A         G      A
+.   Am      G         F      G
  Its always been You Jesus, Jesus
 
 [C]
-.D/F#          G
+.C/E           F
  Nothing else matters
-.Em                         Bm
+.Dm                         Am
  Nothing in this world will do
-.D/F#             G
+.C/E              F
  Jesus youre the center
-.Em                         Bm
+.Dm                         Am
  Everything revolves around You
-.        A                       D
+.        G                       C
  Jesus, You, at the center of it all
 
 [V2]
@@ -49,13 +49,13 @@
  Jesus, Jesus
 ---
 [B]
-.         A
+.         G
  From my heart to the heavens
-.Bm            D
+.Am            C
  Jesus be the center
-.    G
+.    F
  Its all about You
-.        A
+.        G
  Yes Its all about You
 
 [V3]
@@ -63,5 +63,7 @@
  Jesus be the center of your church
  Every knee will bow
  And every tongue will confess you Jesus
- Jesus
-</lyrics></song>
+ Jesus</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

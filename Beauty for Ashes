@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line>I delight myself in the richest of fare</key_line>
@@ -16,35 +16,35 @@
   <tempo>Slow</tempo>
   <time_sig>4/4</time_sig>
   <lyrics>[V1]
-;Soft
-. D A/C#     Bm  A
+. E B/D#     C#m B
  Beauty for ashes
-.  G            D/F#
+.  A            E/G#
  A garment of praise
-. Em7    A/D  D
+. F#m7   B    E
  For my heaviness
-. D A/C#     Bm  A
+. E B/D#     C#m B
  Beauty for ashes
-.  G        D/F#     Em7
+.  A        E/G#     F#m7
  Take this heart of stone
-.     A/D
+.     B
  And make it
-;Swell in to first Yours, build to chorus
-. Bm  C   Bm  A
+. C#m D   C#m B
  Yours...Yours
 
 [C]
-;Full
-.    D                    Bm
+.    E                    C#m
  I delight myself in the richest of fare
-.        C/G
+.        F#m            E/G#
  Trading all that I've had
-.     Em7         A
+.    A            B
  For all that is better
-.   D                        Bm
+.   E                        C#m
  A garment of praise for my heaviness
-.    C/G               Em7
+.     F#m    E/G#      A
  You are the greatest taste
-;Softer
-.             A         D
- You're the richest of fare</lyrics></song>
+.             B         E
+ You're the richest of fare</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

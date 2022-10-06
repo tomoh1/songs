@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>E</key>
   <aka></aka>
   <key_line>Listen to our hearts, hear our spirite sing</key_line>
@@ -50,5 +50,9 @@
  And if I had a thousand years, 
  I would still run out of time.||
  So if You’ll listen to my heart, every beat would say
- “Thank You for the life, thank You for the truth,
- Thank You for the way…”</lyrics></song>
+ “You for the life, thank You for the truth,
+ Thank You for the way…”</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

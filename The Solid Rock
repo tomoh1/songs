@@ -5,8 +5,7 @@
   <copyright>Public Domain</copyright>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
   <ccli>101740</ccli>
-  <theme>Christ: Victory</theme>
-  <alttheme>Fruit: Peace/Comfort</alttheme>
+  <theme>Christ: Victory; Fruit: Peace/Comfort; </theme>
   <lyrics>[V]
 .     E                  B                  A                B        E
 1My   hope is built on   nothing less than  Jesus' blood and righteousness;
@@ -25,4 +24,17 @@
 .    E                       B
  All other ground is sinking sand,
 .    A               B       E
- All other ground is sinking sand.</lyrics></song>
+ All other ground is sinking sand.</lyrics>
+  <hymn_number></hymn_number>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

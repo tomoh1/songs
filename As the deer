@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,33 +16,45 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.D       A/C#        Bm       Bm/A
+.C       G/B         Am       Am/G
  As the deer panteth for the water
-.       G           A       D
+.       F           G       C F G
  So my soul longeth after Thee
-.    A/C#          Bm         Bm/A
+.C     G/B         Am        Am/G
  You alone are my heart’s desire
-.       G            A   D   
+.       F           G    C
  And I long to worship Thee
 
 [C]
-.Bm   Bm/A            G         D
+.Am   Am/G            F         C
  You alone are my strength my shield
-.    G      Bm         Em     F#
+.    F      Am        Dm      E
  To You alone may my spirit yield
-. D    A/C#        Bm        Bm/A
+. C   G/B          Am        Am/G
  You alone are my heart’s desire
-.       G       A        D
+.       F       G        C
  And I long to worship Thee
 
 [V2]
+.C       G/B           Am      Am/G
  I want You more than gold or silver
+.      F       G    C F G
  Only You can satisfy
+.C     G/B          Am       Am/G
  You alone are the real joy giver
+.        F     G     C
  And the apple of my eye
 
 [V3]
+.C           G/B          Am       Am/G
  You’re my friend and You are my brother
+.       F        G      C  F G
  Even though You are a King
+.C      G/A# #        Am  Am/G
  I love You more than any other
- So much more than anything</lyrics></song>
+.         F        G     C
+ So much more than anything</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

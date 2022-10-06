@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -45,4 +45,8 @@
  The full supply I find as I move closer to the heart of God
  To strengthen me, to nourish me, and to fill my mind with Him||
  I’ve truly grown, but even so, my hunger hasn’t gone away
- Still I long, still I thirst, to know Him more each day</lyrics></song>
+ Still I long, still I thirst, to know Him more each day</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

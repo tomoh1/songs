@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15,16 +15,16 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>.A D F#m E
+  <lyrics>.C F Am G
 
 [V1]
-.A                  D
+.C                  F
  I see Your face in every sunrise
-.     F#m                        E
+.     Am                         G
  The colors of the morning are inside Your eyes
-.A                         D
+.C                         F
  The world awakens in the light of the day
-.   F#m                    E
+.   Am                     G
  I look up to the sky and say, You're beautiful
 
 [V2]

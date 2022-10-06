@@ -4,12 +4,10 @@
   <author>Lindell Cooley</author>
   <copyright>Public Domain</copyright>
   <presentation>V1 C V2 C V3 C</presentation>
-  <capo print=""></capo>
+  <capo print="false" sharp="true"></capo>
   <tempo></tempo>
-  <timesig></timesig>
   <ccli></ccli>
-  <theme>God: Love/Mercy</theme>
-  <alttheme></alttheme>
+  <theme>God: Love/Mercy; </theme>
   <user1></user1>
   <user2></user2>
   <user3></user3>
@@ -47,4 +45,12 @@
 .G        G/D         C  A   D
  Bold I approach the eternal throne,
 .    G         C             D          G
- And claim the crown through Christ, my own.</lyrics></song>
+ And claim the crown through Christ, my own.</lyrics>
+  <hymn_number></hymn_number>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <linked_songs/>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -18,44 +18,55 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.
+.Bm                A/C#    D
  You call me out upon the waters
-.
+.           A                    G
  The great unknown where feet may fail.
-.
+.Bm                   A/C#    D
  And there I find You in the mystery
-.
+.         A                  G
  In oceans deep my faith will stand
 
 [C]
-.
+.G           D            A
  And I will call upon Your name
-.
+.G           D             A
  And keep my eyes above the waves
-.
+.             G                 D               A
  When oceans rise my soul will rest in Your embrace
-.
+.          G         A       Bm  A/C# D    A   G
  For I am Yours and You are mine
 
 [V2]
-.
+.Bm                     A/C#    D
  Your grace abounds in deepest waters
-.
+.              A               G
  Your sovereign hand will be my guide
-.
- Where feet may fail and fear surounds me
-.
+.Bm                       A/C#    D
+ Where feet may fail and fear surrounds me
+.            A                          G
  You've never failed and you won't start now
 
 [B]
-.
+.Bm                        G
  Spirit lead me where my trust is without borders
-.
+.        D                          A
  Let me walk up upon the waters wherever You would call me
-.
+.Bm                      G
  Take me deeper than my feet could ever wander
-.
+.        D                                   A
  And my faith will be made stronger in the presence of my Savior
-</lyrics>
+---
+[B2]
+.G D
+.A Em
+.G D
+.A Em
+
+[B3]
+.Bm A D
+.A Em
+.Bm A D
+.A Em</lyrics>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

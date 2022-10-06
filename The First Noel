@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -41,4 +41,8 @@
  This star drew nigh to the northwest,
  o'er Bethlehem it took its rest;
  and there it did both stop and stay,
- right ovre the place where Jesus lay.</lyrics></song>
+ right ovre the place where Jesus lay.</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>G</key>
   <aka></aka>
   <key_line>Not to us but to your name be the glory</key_line>
@@ -53,4 +53,8 @@
 .      Em             D               
  Your children dancing, dancing, dancing, 
 .C                               G
- It's all for you, It's all for you</lyrics></song>
+ It's all for you, It's all for you</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

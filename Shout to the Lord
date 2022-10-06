@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -43,4 +43,8 @@
 .   A          F#m         D          Esus E
  Forever I’ll love You, forever I’ll stand
 . F#m     F#m/E            D         E vvvv A
- Nothing compares to the promise I have in You</lyrics></song>
+ Nothing compares to the promise I have in You</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

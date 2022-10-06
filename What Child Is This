@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -39,16 +39,16 @@
  The Babe, the Son of Mary.
 
 [V2]
-Why lies He in such mean estate,
-Where ox and ass are feeding?
-Good Christians, fear, for sinners here
-The silent Word is pleading.
+ Why lies He in such mean estate,
+ Where ox and ass are feeding?
+ Good Christians, fear, for sinners here
+ The silent Word is pleading.
 
 [C2]
-Nails, spear shall pierce Him through,
-The cross be borne for me, for you.
-Hail, hail the Word made flesh,
-The Babe, the Son of Mary.
+ Nails, spear shall pierce Him through,
+ The cross be borne for me, for you.
+ Hail, hail the Word made flesh,
+ The Babe, the Son of Mary.
 ---
 
 .Em D C Am
@@ -57,13 +57,17 @@ The Babe, the Son of Mary.
  Hallelujah
 
 [V3]
-So bring Him incense, gold and myrrh,
-Come peasant, king to own Him;
-The King of kings salvation brings,
-Let loving hearts enthrone Him.
+ So bring Him incense, gold and myrrh,
+ Come peasant, king to own Him;
+ The King of kings salvation brings,
+ Let loving hearts enthrone Him.
 
 [C3]
-Raise, raise a song on high,
-The virgin sings her lullaby.
-Joy, joy for Christ is born,
-The Babe, the Son of Mary.</lyrics></song>
+ Raise, raise a song on high,
+ The virgin sings her lullaby.
+ Joy, joy for Christ is born,
+ The Babe, the Son of Mary.</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

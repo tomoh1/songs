@@ -4,12 +4,10 @@
   <author>Martin Luther</author>
   <copyright>Public Domain</copyright>
   <presentation>V1 V2 V3 V4</presentation>
-  <capo print="true">3</capo>
+  <capo print="true" sharp="true">3</capo>
   <tempo></tempo>
-  <timesig></timesig>
   <ccli></ccli>
-  <theme>Worship: Assurance/Trust</theme>
-  <alttheme></alttheme>
+  <theme>Worship: Assurance/Trust; </theme>
   <user1></user1>
   <user2></user2>
   <user3></user3>
@@ -42,4 +40,12 @@
 1On  earth is not his    e____qual.
 2And He must  win the    bat__tle.
 3One little   word shall fell him.
-4His kingdom  is for_____e____ver!</lyrics></song>
+4His kingdom  is for_____e____ver!</lyrics>
+  <hymn_number></hymn_number>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <linked_songs/>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

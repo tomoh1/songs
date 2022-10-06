@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -50,11 +50,11 @@
  Jesus the First and the Last 
 
 [V3]
-Show us the way of Your love 
-Lead us towards the truth 
-Stir up the fire in us 
-To live out this life for you 
-Calling Your name Jesus forever we’ll sing 
+ Show us the way of Your love 
+ Lead us towards the truth 
+ Stir up the fire in us 
+ To live out this life for you 
+ Calling Your name Jesus forever we’ll sing 
 ---
 
 [B]
@@ -66,4 +66,8 @@ Calling Your name Jesus forever we’ll sing
 .       Am                          Em    D
  Every distant horizon will meet as one 
 .        C                         C
- Singing holy is Your name We sing holy is Your name. </lyrics></song>
+ Singing holy is Your name We sing holy is Your name. </lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

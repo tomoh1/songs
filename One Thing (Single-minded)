@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>D</key>
   <aka></aka>
   <key_line>All of life, comes down to just one thing</key_line>
@@ -39,4 +39,8 @@
 .                             D/B
  And that's to know you, oh Jesus
 .              G
- And make you known (repeat)</lyrics></song>
+ And make you known (repeat)</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

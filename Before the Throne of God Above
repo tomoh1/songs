@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,26 +16,26 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.D                    G/D   D
+.C                    F/C   C
  Before the throne of God above,
-.D                          F#m
+.C                          Em
  I have a strong, a perfect plea,
-.   D/F#         G     D/F#   A       Bm
+.   C/E          F     C/E    G       Am
  A great High Priest whose name is Love,
-.          G6         Em7   G/A D
+.          F6         Dm7   F/G C
  Who ever lives and pleads for me.
 
 
 [C1]
-.             G D/F# D       A
+.             F C/E        G
  My name is graven on His hands,
-.             G  D/F# G  A    Bm
+.             F  C/E  F  G    Am
  My name is written on His heart;
-.  Bm/A        G   D/F#  A       Bm2
+.  Am/G        F   C/E   G       Am2
  I know that while in heav'n He stands
-.Bm Bm/A       G6     Em7    G/A  Bm
+.Am Am/G        F             G  Am
  No tongue can bid me thence depart.
-.   Bm/A        G6    Em7    G/A  D
+.   Am/G        F       G       C
  No tongue can bid me thence depart.
 .
 
@@ -66,5 +66,8 @@
  My soul is purchased by His blood;
  My life is hid with Christ on high,
  with Christ, my Saviour and my God
- with Christ, my Saviour and my God
- </lyrics></song>
+ with Christ, my Saviour and my God</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

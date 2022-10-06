@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key>G</key>
   <aka></aka>
   <key_line>You came to us a man</key_line>
@@ -55,4 +55,8 @@
  And hail supreme authority in the true and living God || 
  At the name of Jesus we will bow 
  as every tongue confesses You as Lord
- When You come in glory for the world to see, we will sing</lyrics></song>
+ When You come in glory for the world to see, we will sing</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

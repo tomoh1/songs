@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15,26 +15,52 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[v1]
+  <lyrics>[V1]
+.    E               A        E
  On Jordan's stormy banks I stand
+.     E             B
  And cast a wishful eye
+.    C#m               A     E
  To Canaan's fair and happy land
+.       A     B        E
  Where my possessions lie
-[v2]
+
+[V2]
+.    E                  A       E
  All o'er those wide extended plains
+.       E            B
  Shines one eternal day
+.      C#m             A     E
  There God, the Son forever reigns
+.      A       B      E
  And scatters night away.
-[c]
+
+[C]
+.      E           B           A              B       E
  I am bound, I am bound, I am bound for the Promised Land
+.      E           B           A              B       E
  I am bound, I am bound, I am bound for the Promised Land
-[v3]
+
+[V3]
+.     E                A          E
  No chilling wind nor poisonous breath
+.     E                     B
  Can reach that healthful shore
+.       C#m               A         E
  Where sickness, sorrow, pain and death
+.     A        B         E
  Are felt and feared no more
-[v4]
+---
+[V4]
+.       E               A      E
  When shall I see that happy place
+.     E           B
  And be forever blessed
+.      C#m            A        E
  When shall I see my Father's face
- And in His bosom rest</lyrics></song>
+.    A       B     E
+ And in His bosom rest</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

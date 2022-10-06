@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -58,13 +58,33 @@
  To You, Lord, to You Lord
 ---
 ;alternate bassline
-.A/C# D A/E D/F# A/E D A D
+.            A/C#    D 
+ Glory in the highest
+.            A/E     D/F# 
+ Glory in the highest
+.            A/E     D
+ Glory in the highest
+.         A            D
+ To You, Lord, to You Lord
 
 [T]
+.A/C#
  All the earth will sing Your praise
+.D
  The moon and stars, the sun and rain
+.A/E
  Every nation will proclaim
+.D/F#
  You are God and You will reign
+.A/E
  Glory glory, hallelujah
+.D
  Glory glory to you Lord
- Glory glory, hallelujah</lyrics></song>
+. A/C#
+ Glory glory, hallelujah
+.D           A
+ Hallelujah</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

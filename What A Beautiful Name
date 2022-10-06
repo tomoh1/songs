@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -18,33 +18,33 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.G
- You were the Word at the beginning 
-.                C             Em              D
- One with God the Lord most high 
-.Em                           D/F# G
- Your hidden glory in creation 
-.           C                Em         D
- Now revealed in You our Christ 
+.C
+ You were the Word at the beginning
+.          F       Am        G
+ One with God the Lord most high
+.Am               G/B     C
+ Your hidden glory in creation
+.        F       Am         G
+ Now revealed in You our Christ
 
 [C1]
-.                                             G
- What a beautiful name it is 
-.                                             D
- What a beautiful name it is 
-.                       Em    D                C
- The name of Jesus Christ my king 
-.                                             G/B
- What a beautiful name it is 
-.                                      D
- Nothing compares to this 
-.                                             Em
- What a beautiful name it is 
-.       D             C
- The name of Jesus 
+.                         C
+ What a beautiful name it is
+.                         G
+ What a beautiful name it is
+.             Am      G       F
+ The name of Jesus Christ my king
+.                        C/E
+ What a beautiful name it is
+.                      G
+ Nothing compares to this
+.                         Am
+ What a beautiful name it is
+.     G       F
+ The name of Jesus
 
 [V2]
- You didn’t want heaven without us
+ We couldn't have heaven without you
  So Jesus you brought heaven down 
  My sin was great your love was greater 
  What could separate us now? 
@@ -60,28 +60,29 @@
  What a wonderful name it is 
  The name of Jesus 
 ---
-.C///|D///|Em///|Bm/// (2x) 
-.C///|D///|Em///|D/// 
+[Interlude]
+.F G Am Em
+.F G Am G
 
 [Bridge]
-.                            C
- Death could not hold you 
-.                           D
- The veil tore before you 
-.                           Em                        Bm
- You silence the boast of sin and grave 
-.                              C                                            D
+.                 F
+ Death could not hold you
+.                 G
+ The veil tore before you
+.                 Am                Em
+ You silence the boast of sin and grave
+.                 F                           G
  The heavens are roaring the praise of your glory
-.                    Em                  D
+.             Am             G
  For you are raised to life again ||
-.                      C                               D
- You have no rival, you have no equal 
-.                     Em                    Bm 
- Now and forever God you reign 
-.                     C                                     D
- Yours is the kingdom, yours is the glory 
-.                     Em                      D
- Yours is the name above all names 
+.             F                 G
+ You have no rival, you have no equal
+.           Am            Em
+ Now and forever God you reign
+.              F                      G
+ Yours is the kingdom, yours is the glory
+.              Am              G
+ Yours is the name above all names
 
 [C3]
  What a powerful name it is 
@@ -92,10 +93,10 @@
  What a powerful name it is 
  The name of Jesus 
 
-[Tag]
+[T]
  What a powerful name it is 
  The name of Jesus 
  What a powerful name it is 
- The name of Jesus </lyrics>
+ The name of Jesus</lyrics>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

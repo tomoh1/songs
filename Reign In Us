@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -72,4 +72,8 @@
 .      F#m                D        A       E
  Come cleanse us like a flood and send us out
 .        F#m                D         A       E
- So the world may know you reign you reign in us</lyrics></song>
+ So the world may know you reign you reign in us</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

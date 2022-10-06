@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,44 +16,44 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.              B2
+.              A2
  Even though I walk
-.B2
+.A2
  Through the valley of the shadow of death,
-.      E2/G#
+.      D2/F#
  Your perfect love is casting out fear.
-.                   B2
+.                   A2
  And even when I'm caught
-.B2
+.A2
  In the middle of the storms of this life,
-.   E2/G#
+.   D2/F#
  I won't turn back, I know You are near.
 
 [P]
-.                   G#m7 F# B2
+.                   F#m7 E A2
  And I will fear no evil,
-.              G#m7  F# B2
+.              F#m7  E A2
  For my God is with me.
-.                 G#m7 F# B2
+.                 F#m7 E  A2
  And if my God is with me,
-.                   F#
+.                   E
  Whom then shall I fear?
-.                   E2
+.                   D2
  Whom then shall I fear?
 
 
 [C]
-.B2
+.A2
  Oh no, You never let go,
-.B2
+.A2
  Through the calm and through the storm
-.G#m7
+.F#m7
  Oh no, You never let go,
-.G#m7
+.F#m7
  In every high and every low
-.F#sus
+.Esus
  Oh no, You never let go
-.E2                           B2 F#sus E2
+.D2                           A2 Esus D2
  Lord, You never let go of me.
 ---
 [V2]
@@ -66,15 +66,19 @@
 
 
 [B]
-.B2
+.A2
  I can see a light that is coming
-.B2
+.A2
  for the heart that holds on,
-.                     G#m7
+.                     F#m7
  And there will be an end to these troubles,
-.G#m7
+.F#m7
  But until that day comes
-.F#sus
+.Esus
  Still I will praise You,
-.E2                      B2 F#sus E2
- still I will praise You.</lyrics></song>
+.D2                      A2 Esus D2
+ still I will praise You.</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

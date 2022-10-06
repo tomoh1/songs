@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -35,4 +35,8 @@
  I'm singing You this song, I'm waiting at the cross 
  And all the world holds dear, I count it all as loss 
  For the sake of knowing You for the glory of Your name
- To know the lasting joy, even sharing in Your pain </lyrics></song>
+ To know the lasting joy, even sharing in Your pain </lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

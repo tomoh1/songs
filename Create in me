@@ -5,7 +5,7 @@
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -33,4 +33,8 @@
 .C             D       B7            Em
  Restore unto me, the joy of Thy salvation
 .Am                  D            G
- And renew a right spirit within me.</lyrics></song>
+ And renew a right spirit within me.</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

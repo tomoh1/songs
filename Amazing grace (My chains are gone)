@@ -5,7 +5,7 @@
   <copyright>[I}</copyright>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,16 +16,16 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[Intro]
-.A E/A A E/A
+.E B/E E B/E
 
 [V1]
-.  A                 D/A
+.  E                 A/E
  Amazing grace, how sweet the sound
-.      A                  E/A
+.      E                  B/E
  That saved a wretch like me
-.  A         A/C#      D       A
+.  E         E/G#      A       E
  I once was lost, but now I'm found
-.      A         E/A   A
+.      E         B/E   E
  Was blind, but now I see
 
 [V2]
@@ -35,13 +35,13 @@
  The hour I first believed
 
 [C]
-.               D                    A/C#
+.               A                    E/G#
  My chains are gone, I've been set free
-.           D                    A/E
+.           A                    E/B
  My God my saviour has ransomed me
-.             D               A/C#
+.             A               E/G#
  And like a flood, His mercy rains
-.          Bm  E          A
+.          F#m B          E
  Unending love, amazing grace
 ---
 [V3]
@@ -55,4 +55,7 @@
  The sun forbear to shine
  But God, Who called me here below
  Will be forever mine</lyrics>
-  <hymn_number></hymn_number></song>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
